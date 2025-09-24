@@ -4,7 +4,7 @@
 How do we know a bearing is about to fail… before it actually does?  
 This project explores that question using **Machine Learning** applied to **real vibration data** from experimental setups.
 
-The goal: Develop a predictive maintenance system that detects early fault patterns in bearings, helping industries reduce downtime, lower costs, and improve safety.
+The goal: Develop a predictive maintenance system that detects early fault detection in bearings, helping industries reduce downtime, lower costs, and improve safety.
 
 ---
 
